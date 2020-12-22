@@ -1,0 +1,14 @@
+@charset "utf-8";
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic&family=Rubik&display=swap');
+
+body {width:1320px; font-size:; font-family:'Nanum Gothic', 'Rubik', '맑은 고딕', 'arial' sans-serif;}
+li {list-style:none;}
+
+
+ #explain {}
+#explain h1 {font-size:64px; line-height:40px; text-align:center;}
+#explain p {font-size:40px;font-weight:400;;font-style:normal;letter-spacing:-1.4px;
+text-decoration:none;text-transform:uppercase;color:rgba(0, 0, 0, 1); text-align:center;}
+ #pic {display:inline-block; }
+ #pic li { height:800px; padding:10px 0;}
+ #pic img {width:1280px;}
